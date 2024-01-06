@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-""" add 2 floats a b with typing variable annotation """
+"""function add that taking 2 floats a and b"""
 
 
 def add(a: float, b: float) -> float:
-    """ return sum of a and b """
-    return (a + b)
+    """return the sum of a + b"""
+    return a + b
