@@ -1,3 +1,10 @@
+Pagination
+ Master
+ By: Emmanuel Turlay, Staff Software Engineer at Cruise
+ Weight: 1
+ Your score will be updated as you progress.
+  
+
 Resources
 Read or watch:
 
