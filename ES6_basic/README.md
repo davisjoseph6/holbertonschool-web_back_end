@@ -1,5 +1,5 @@
 ES6 Basics
- Novice
+ Novice.
  By: Johann Kerbrat, Engineering Manager at Uber Works
  Weight: 1
  Your score will be updated as you progress.
